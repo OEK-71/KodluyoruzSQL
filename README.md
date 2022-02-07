@@ -3,12 +3,12 @@ Patika.dev aracılığı ile öğrenilen SQL derslerinin uygulamaları burada pa
 # Homework 1
 1.film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
-![1soru](https://user-images.githubusercontent.com/83791722/152820326-4f352eb9-3739-44f8-9e3d-14f7b9390403.png)
+![1 1](https://user-images.githubusercontent.com/83791722/152821361-7112bafc-5dae-4c14-9813-96004fae7518.png)
 
 2.film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
 
 
-![2 soru](https://user-images.githubusercontent.com/83791722/152820782-9f6373b8-4eb3-41fb-a908-90550a708de4.png)
+![2 1](https://user-images.githubusercontent.com/83791722/152821378-0acae13d-624d-401b-9cfc-e5fe828f3dec.png)
 
 
 3.film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
